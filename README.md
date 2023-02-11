@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a personal portfolio. You can see the current progress @ https://dannnorth.com
+🔭 I’m currently working on a personal portfolio. You can see the current progress @ https://dannnorth.com  
+
 📫 How to reach me: https://www.linkedin.com/in/dannynoordam1/, or send me an email: dannynoordam.dev@gmail.com
 
 <!--
