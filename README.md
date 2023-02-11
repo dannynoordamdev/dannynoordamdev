@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a personal portfolio. You can see the current progress @ https://dannnorth.com
+📫 How to reach me: https://www.linkedin.com/in/dannynoordam1/, or send me an email: dannynoordam.dev@gmail.com
+
 <!--
 **dannynoordamdev/dannynoordamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
