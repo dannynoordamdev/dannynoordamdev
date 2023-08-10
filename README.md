@@ -1,8 +1,10 @@
-### Hi there 👋
+👋 Ambitious ICT student  | Exploring the forefront of technology in The Hague 🇳🇱 | Mastering Java, JS, React, C# | Backend enthusiast 🚀 |
 
-🔭 I’m currently working on a personal portfolio. 
+Here is my portfolio!
+Https://dannynoordamdev.tech
 
-📫 How to reach me: https://www.linkedin.com/in/dannynoordam1/, or send me an email: dannynoordam.dev@gmail.com
+Getting in touch:
+dannynoordam.dev@gmail.com
 
 <!--
 **dannynoordamdev/dannynoordamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
