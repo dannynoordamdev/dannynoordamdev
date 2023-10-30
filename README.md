@@ -1,7 +1,7 @@
 👋 Ambitious ICT student  | Exploring the forefront of technology in The Hague 🇳🇱 | Mastering Java, JS, React, C# | Backend enthusiast 🚀 |
 
 Here is my portfolio!
-Https://dannynoordamdev.tech
+Https://dannynoordamdev.tech -> under construction
 
 Getting in touch:
 dannynoordam.dev@gmail.com
