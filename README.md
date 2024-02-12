@@ -1,11 +1,7 @@
-👋 Ambitious ICT student  | Exploring the forefront of technology in The Hague 🇳🇱 | Mastering Java, JS, React, C# | Backend enthusiast 🚀 |
+👋 Ambitious ICT student  | Exploring the forefront of technology in The Hague 🇳🇱 | Working with technologies such as .Net, React & Python
 
 Here is my portfolio!
 Https://dannynoordamdev.tech -> under construction
-
-Getting in touch:
-dannynoordam.dev@gmail.com
-
 <!--
 **dannynoordamdev/dannynoordamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
