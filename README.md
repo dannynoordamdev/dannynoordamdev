@@ -8,8 +8,8 @@
 ### 🔧 Technologies I Work With
 
 - **Languages:** C#, Python, JavaScript  
-- **Frameworks & Libraries:** ASP.NET Core, React, TailwindCSS  
-- **Tools & Platforms:** Git, Raspberry Pi, Docker, REST APIs  
+- **Frameworks & Libraries:** FastAPI, ASP.NET Core, React, TailwindCSS  
+- **Tools & Platforms:** Git, Raspberry Pi, REST APIs  
 
 ---
 
