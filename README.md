@@ -9,20 +9,20 @@
 
 - **Languages:** C#, Python, JavaScript  
 - **Frameworks & Libraries:** FastAPI, ASP.NET Core, React, TailwindCSS  
-- **Tools & Platforms:** Git, Raspberry Pi, REST APIs  
+- **Tools & Platforms:** Git, Raspberry Pi Development and much more. 
 
 ---
 
-### 🚀 Projects I'm Working On
+### 🚀 Projects I've worked on:
 
-📊 **Data Visualization Projects**  
-Creating interactive and insightful data visuals using modern front-end libraries  (React, D3.js).
+📊 **Data Visualization Project for the Koninklijke Bibliotheek**  
+Created interactive and insightful data visuals regarding old manuscripts. Worked with technologies such as ASP.NET CORE & React.
 
-🧠 **Insight in Comic App**  
-A comic discovery tool with insightfull data
+🦇 **[Comixly](https://comixly.tech), a web app for comic enthusiasts**  
+An application where users can find new comics & track the ones they are interested in. AI-integration through Comixly-Recommendations.
 
 📺 **Raspberry Pi Dashboard**  
-A self-hosted dashboard for system stats and easy web deployments.
+Live dashboard to keep track of all my deployed web apps, on my personal RPI5! ;)
 
 ---
 
